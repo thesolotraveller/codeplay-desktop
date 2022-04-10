@@ -1,0 +1,3 @@
+export const ADD_TAB = 'ADD_TAB';
+export const REMOVE_FILE_TAB = 'REMOVE_FILE_TAB';
+export const SELECT_SAVED_FILE_TAB = 'SELECT__SAVED_FILE_TAB';

@@ -1,0 +1,32 @@
+.container2 {
+  display: flex;
+  background-color: #262626;
+  height: 36px;
+}
+
+.tabItem {
+  height: 34px;
+  display: flex;
+  font-weight: bold;
+  background-color: #262626;
+  color: #70706f;
+  padding: 0px 10px 0px 20px;
+  min-width: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  border-right:1px #30302e solid;
+  border-left:1px #30302e solid;
+
+  img {
+    margin-left: auto;
+    order: 2;
+    width: 9px;
+    padding-left: 20px;
+  }
+}
+
+.selectedTab {
+  background-color: #1C1C1A;
+  border-right:1px #1E6EC5 solid;
+  border-left:1px #1E6EC5 solid;
+}
